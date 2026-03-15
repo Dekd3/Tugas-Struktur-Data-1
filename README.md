@@ -102,6 +102,9 @@ ax1.set_ylim(0, 100)
 ax2.bar(['Lulus', 'Gagal'], [lulus, 10-lulus], color=['green', 'red'])
 ax2.set_ylim(0, 10)
 ```
+# Hasil Run Progran
+![image alt](https://github.com/Dekd3/Tugas-Struktur-Data-1/blob/b53a5b666c4779e538b7430e4d6fab99a5665abf/Screenshot%202026-03-15%20195559.png)
+
 # Analisis Kompleksitas
 
 Kompleksitas utama yang dipakai program ini adalah `O(n)` karena ada banyak operasi yang harus memproses semua data satu per satu sebanyak `n` kali. Contohnya:
